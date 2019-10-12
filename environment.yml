@@ -1,0 +1,8 @@
+name: HMM
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - ipykernel
+  - scikit-learn
